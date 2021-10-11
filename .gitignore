@@ -1,5 +1,7 @@
 node_modules
 *.css
 .parcel-cache
+parcel-cache
+.cache
 build
 .DS_Store
