@@ -38,7 +38,8 @@ $alert: $color-3; // red
 
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: $primary-font;
   color: $color-2;
 }
@@ -56,12 +57,18 @@ h1 {
   @include MQ(M) {
     font-size: 4rem;
   }
+
+  @include MQ(L){
+    font-size: 100px;
+  }
 }
 
 h2 {
   font-weight: bold;
   text-transform: uppercase;
   margin: 1em 0;
+  font-size: 24px;
+
 
   @include MQ(S) {
     font-size: 1.8rem;
@@ -69,13 +76,16 @@ h2 {
   }
 }
 
+
+
 section > h2::before {
   /* number before each section title */
   color: darken($color-4, 15%);
 }
 
 p {
-  font-size: 1.4rem;
+  font-family: $secondary-font;
+  font-size: 16px;
   line-height: 1.4;
   color: lighten($color-2, 25%);
 
