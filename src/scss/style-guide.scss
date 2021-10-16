@@ -201,36 +201,7 @@ header {
   }
 }
 
-.cd-button_link{
-  background-color: $color-8;
 
-  & li a{
-
-    &:link{
-      color: $color-1;
-      background-color: $color-3;
-    }
-
-    &:visited{
-      color: $color-2;
-      background-color: $color-6;
-    }
-
-    &:hover{
-      color: $color-3;
-      background-color: $color-1;
-    }
-
-    &:active{
-      color: $color-6;
-      background-color: $color-2;
-      outline: 1px solid $color-6;
-    }
-
-  }
-
-}
-  
 
 
 /* -------------------------------- 
