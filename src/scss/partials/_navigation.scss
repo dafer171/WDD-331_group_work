@@ -1,0 +1,97 @@
+// color palette - these colors will be the color swatches of the Colors section
+
+$color-1: #ffffff; // White
+$color-2: #3a5763; // Deep Space Sparkle
+$color-3: #264653; // Charcoal
+$color-4: #43aa8b; // Zomp
+$color-5: #90be6d; // Pistachio
+$color-6: #f9c74f; // Maize Crayola
+$color-7: #f8961e; // Yellow Orange Color Wheel
+$color-8: #f3722c; // Orange Red
+$color-9: #f94144; // Red Salsa
+
+// additional colors
+
+$success: #6fce72; // green
+$alert: $color-9; // red
+
+
+
+.cd-primary-nav{
+    background-color: $color-3;
+  
+  
+    & li a{
+     
+  
+      &:link{
+        color: $color-1;
+      }
+  
+      &:visited{
+        color: $color-5;
+      }
+  
+      &:hover{
+        color: $color-6;
+        }
+  
+        
+      &:active{
+        color: $color-9;
+      }
+  
+    }
+  }
+  
+  .cd-secondary-nav{
+  
+    background-color: $color-6;
+  
+    & li a{
+    
+  
+      &:link{
+        color: $color-3;
+      }
+  
+      &:visited{
+        color: $color-5;
+      }
+  
+      &:hover{
+        color: $color-1;
+  
+      }
+  
+      &:active{
+        color: $color-9;
+      }
+  
+    }
+  }
+  
+  .cd-other{
+  
+    background-color: $color-7;
+  
+    & li a{
+  
+      &:link{
+        color: $color-1;
+      }
+  
+      &:visited{
+        color: $color-5;
+      }
+  
+      &:hover{
+        color: $color-3;
+      }
+  
+      &:active{
+        color: $color-9
+      }
+  
+    }
+  }
