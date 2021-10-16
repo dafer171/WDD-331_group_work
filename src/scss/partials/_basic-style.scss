@@ -516,6 +516,54 @@ section {
 		}
 	}
 
+	li:nth-of-type(6) .cd-color-swatch {
+		background: $color-6;
+
+		&::before {
+			background: lighten($color-6, 5%);
+		}
+
+		&::after {
+			background: darken($color-6, 5%);
+		}
+	}
+
+    li:nth-of-type(7) .cd-color-swatch {
+		background: $color-7;
+
+		&::before {
+			background: lighten($color-7, 5%);
+		}
+
+		&::after {
+			background: darken($color-7, 5%);
+		}
+	}
+
+	li:nth-of-type(8) .cd-color-swatch {
+		background: $color-8;
+
+		&::before {
+			background: lighten($color-8, 5%);
+		}
+
+		&::after {
+			background: darken($color-8, 5%);
+		}
+	}
+
+	li:nth-of-type(9) .cd-color-swatch {
+		background: $color-9;
+
+		&::before {
+			background: lighten($color-9, 5%);
+		}
+
+		&::after {
+			background: darken($color-9, 5%);
+		}
+	}
+
 	@include MQ(S) {
 		li {
 			@include column(.19);
@@ -533,7 +581,6 @@ section {
 }
 
 .cd-typography .cd-box,
-.cd-buttons .cd-box,
 .cd-icons .cd-box,
 .cd-form .cd-box {
 	padding: 1em;
@@ -551,7 +598,7 @@ section {
 
 	h1::before {
 		content: 'Aa - ';
-		color: $color-1;
+		color: $color-3;
 	}
 }
 
