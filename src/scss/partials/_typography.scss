@@ -74,11 +74,20 @@ h2 {
   margin: 1em 0;
   font-size: 24px;
 
-
+  
   @include MQ(S) {
-    font-size: 1.8rem;
-    margin: 1em 0 1.4em;
+    font-size: 3.2rem;
   }
+
+  @include MQ(M) {
+    font-size: 4rem;
+  }
+
+  @include MQ(L){
+    font-size: 24px;
+  }
+  
+
 }
 
 
