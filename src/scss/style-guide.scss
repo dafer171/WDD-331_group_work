@@ -1,8 +1,9 @@
 @import 'partials/reset';
 @import 'partials/prefix-mixins';
 @import 'partials/layout'; // responsive grid and media queries
-@import 'partials/typography';
-@import 'partials/colors';
+@import 'partials/typography'; // all typography styles and sizes
+@import 'partials/colors'; // all color variables
+@import 'partials/navigation'; //all navigation styles
 
 
 // fonts
@@ -122,84 +123,6 @@ header {
   }
 }
 
-.cd-primary-nav{
-  background-color: $color-3;
-
-
-  & li a{
-   
-
-    &:link{
-      color: $color-1;
-    }
-
-    &:visited{
-      color: $color-5;
-    }
-
-    &:hover{
-      color: $color-6;
-      }
-
-      
-    &:active{
-      color: $color-9;
-    }
-
-  }
-}
-
-.cd-secondary-nav{
-
-  background-color: $color-6;
-
-  & li a{
-  
-
-    &:link{
-      color: $color-3;
-    }
-
-    &:visited{
-      color: $color-5;
-    }
-
-    &:hover{
-      color: $color-1;
-
-    }
-
-    &:active{
-      color: $color-9;
-    }
-
-  }
-}
-
-.cd-other{
-
-  background-color: $color-7;
-
-  & li a{
-
-    &:link{
-      color: $color-1;
-    }
-
-    &:visited{
-      color: $color-5;
-    }
-
-    &:hover{
-      color: $color-3;
-    }
-
-    &:active{
-      color: $color-9
-    }
-
-  }
-}
 
 
 
