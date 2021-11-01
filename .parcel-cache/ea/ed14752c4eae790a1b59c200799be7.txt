@@ -1,4 +1,4 @@
-21933
+21934
 101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\util.promisify\.github132784243221636872 1
 134C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\__tests__\stripComments.js121436361000000000 0
 123C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\loader-utils\node_modules\json5\CHANGELOG.md131658172320000000 0
@@ -39,7 +39,7 @@
 145C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-rules\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\highlight.js\lib\languages\jboss-cli.js121436361000000000 0
 87C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\svgo\lib132784243095395441 1
-76C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\.gitignore132784372305483874 0
+76C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\.gitignore132788812161914764 0
 91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\levn\LICENSE130732672380000000 0
 103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\object-keys\package.json132784233366656953 0
 98C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\split2\node_modules132784243026437722 1
@@ -47,7 +47,7 @@
 132C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-scope\node_modules\color-name\LICENSE130953959930000000 0
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\posthtml-parser\coverage\sort-arrow-sprite.png121436361000000000 0
 94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\has\LICENSE-MIT121436361000000000 0
-71C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build132788550982095362 1
+71C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build132788857447032264 1
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@nodelib\fs.scandir\src\providers\sync.spec.ts121436361000000000 0
 92C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\tr46\index.js131488780790000000 0
 115C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\core\test\fixtures\bundle.js121436361000000000 0
@@ -78,7 +78,7 @@
 94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\nanoid\index.js121436361000000000 0
 114C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\modules\es.number.is-nan.js121436361000000000 0
 98C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\dot-prop\index.d.ts121436361000000000 0
-100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_typography.scss132787831800000000 0
+100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_typography.scss132788855211228278 0
 96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\lodash\fp\last.js121436361000000000 0
 148C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-local-by-default\node_modules\supports-color\index.js131792129460000000 0
 89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\regenerate132784242843977273 1
@@ -97,7 +97,7 @@
 109C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\json-schema-traverse\README.md131702816850000000 0
 154C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-timing-functions\node_modules\postcss\docs\source-maps.md121436361000000000 0
 111C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\stable\array\iterator.js121436361000000000 0
-74C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss132787907277149057 1
+74C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss132788855211248269 1
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\resolve\test\pathfilter.js121436361000000000 0
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\argparse\lib\action\append132784240300176808 1
 119C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\terser\node_modules\source-map\README.md131709651130000000 0
@@ -110,20 +110,6 @@
 111C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\modules\es.math.log1p.js121436361000000000 0
 113C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\iterator\every.js121436361000000000 0
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\css-select\node_modules\domutils\lib\legacy.js131380691250000000 0
-96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\sshpk\lib\formats132784243042178756 1
-113C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\js-yaml\lib\js-yaml\schema\core.js121436361000000000 0
-129C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\posthtml\node_modules\posthtml-parser\xo.config.js121436361000000000 0
-124C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\modules\es.typed-array.copy-within.js121436361000000000 0
-121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\htmlparser2\lib\CollectingHandler.d.ts.map121436361000000000 0
-143C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\lib\source-node.js131509962680000000 0
-92C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\xtend\test.js121436361000000000 0
-132C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-url\node_modules\chalk\package.json132784233358022271 0
-96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\request\README.md121436361000000000 0
-135C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\jsdom\lib\jsdom\living\generated\EventListenerOptions.js121436361000000000 0
-103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\abortcontroller-polyfill132784240257174820 1
-101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\optionator\lib\help.js132175490390000000 0
-113C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\caniuse-lite\data\features\cors.js121436361000000000 0
-100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\os-browserify\LICENSE131371328570000000 0
 102C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\assets\branding\touch-icon-1.jpg130614657520000000 0
 104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\regexpu-core\package.json132784233340862847 0
 90C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\array-equal132784240305833327 1
@@ -161,7 +147,7 @@
 148C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\semver\bin\semver121436361000000000 0
 107C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\is-date-object\.editorconfig121436361000000000 0
 161C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-minify-gradients\node_modules\chalk\node_modules\supports-color\browser.js131663821590000000 0
-69C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src132785000564239628 1
+69C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src132788839126334746 1
 117C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-for-of\LICENSE121012626000000000 0
 96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\define-properties132784241206037150 1
 138C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\postcss\lib\processor.js121436361000000000 0
@@ -239,7 +225,7 @@
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\jsdom\lib\jsdom\browser\parser\index.js121436361000000000 0
 140C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-minify-gradients\node_modules\postcss\docs\guidelines132784242369889429 1
 87C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\has-flag132784241490189421 1
-80C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\index.html132788556694327706 0
+80C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\index.html132788839126334746 0
 139C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-unique-selectors\node_modules\postcss\lib\at-rule.js121436361000000000 0
 100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\lodash.uniq\README.md131155832520000000 0
 142C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\node_modules\postcss\docs\source-maps.md121436361000000000 0
@@ -256,7 +242,7 @@
 96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_layout.scss130614657520000000 0
 128C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\lib132784242279256083 1
 103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\5\MakeDay.js121436361000000000 0
-82C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.html132788550981965441 0
+82C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.html132788857446892341 0
 146C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules\node_modules\source-map\lib\source-map-generator.js131508293880000000 0
 97C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\xmlchars\README.md121436361000000000 0
 138C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\regenerate-unicode-properties\Script_Extensions\Cherokee.js121436361000000000 0
@@ -274,8 +260,8 @@
 114C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\highlight.js\scss\kimbie.light.scss121436361000000000 0
 124C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\caniuse-lite\data\features\x-frame-options.js121436361000000000 0
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\stylehacks\node_modules\color-convert\route.js121436361000000000 0
-83C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials132788550619545978 1
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\style-guide.scss132788097340000000 0
+83C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials132788856653577265 1
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\style-guide.scss132788855211248269 0
 94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\qs\lib\index.js131419451920000000 0
 91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\wcwidth\test132784243237366290 1
 135C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\helper-create-class-features-plugin\lib\fields.js121012626000000000 0
@@ -290,7 +276,7 @@
 114C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\cssnano-util-raw-cache\CHANGELOG.md121436361000000000 0
 104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\utils\src\glob.js121436361000000000 0
 93C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\braces\LICENSE121436361000000000 0
-101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_basic-style.scss132788097320000000 0
+101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_basic-style.scss132788794809347928 0
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\browserify-aes\.travis.yml121436361000000000 0
 109C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\svgo\plugins\collapseGroups.js121436361000000000 0
 151C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\object-copy\node_modules\is-descriptor\node_modules\kind-of\package.json132784233368016125 0
@@ -309,6 +295,15 @@
 120C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-ordered-values\node_modules\chalk132784242670310529 1
 126C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\csso\lib\restructure\prepare\processSelector.js121436361000000000 0
 96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_colors.scss132787773660000000 0
+86C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\process132784242792066961 1
+94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\hex-color-regex132784241508107388 1
+114C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\package.json132784233355363907 0
+101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss\lib\warning.js121436361000000000 0
+135C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser132784242334471761 1
+147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\dist\source-map.min.js131511695990000000 0
+100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\src\scss\partials\_navigation.scss132788856653577265 0
+84C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\acorn132784240260452790 1
+130C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\selectors\container.js121436361000000000 0
 117C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@nodelib\fs.scandir\out\utils\index.js121436361000000000 0
 139C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-duplicates\node_modules\source-map\README.md131508293880000000 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@nodelib\fs.walk\out\providers\stream.d.ts121436361000000000 0
@@ -557,13 +552,20 @@
 150C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-unique-selectors\node_modules\chalk\node_modules\supports-color132784242754687403 1
 147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-scope\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
 107C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\readable-stream\node_modules132784242841330536 1
-84C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\acorn132784240260452790 1
-130C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\selectors\container.js121436361000000000 0
-86C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\process132784242792066961 1
-94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\hex-color-regex132784241508107388 1
-114C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\package.json132784233355363907 0
-101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss\lib\warning.js121436361000000000 0
-135C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser132784242334471761 1
+96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\sshpk\lib\formats132784243042178756 1
+113C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\js-yaml\lib\js-yaml\schema\core.js121436361000000000 0
+129C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\posthtml\node_modules\posthtml-parser\xo.config.js121436361000000000 0
+124C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\modules\es.typed-array.copy-within.js121436361000000000 0
+121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\htmlparser2\lib\CollectingHandler.d.ts.map121436361000000000 0
+143C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\lib\source-node.js131509962680000000 0
+92C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\xtend\test.js121436361000000000 0
+132C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-url\node_modules\chalk\package.json132784233358022271 0
+96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\request\README.md121436361000000000 0
+135C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\jsdom\lib\jsdom\living\generated\EventListenerOptions.js121436361000000000 0
+103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\abortcontroller-polyfill132784240257174820 1
+101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\optionator\lib\help.js132175490390000000 0
+113C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\caniuse-lite\data\features\cors.js121436361000000000 0
+100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\os-browserify\LICENSE131371328570000000 0
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@nodelib\fs.scandir\out\providers\common.spec.d.ts.map121436361000000000 0
 131C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-minify-gradients\node_modules\source-map\lib132784242379466821 1
 106C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\dom-serializer\node_modules132784241217680764 1
@@ -3195,7 +3197,10 @@
 101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\regjsparser\bin\parser121436361000000000 0
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2018\ValidateAndApplyPropertyDescriptor.js121436361000000000 0
 103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\to-regex-range\README.md121436361000000000 0
-82C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\url132784243212806446 1
+133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-unicode\node_modules\postcss\LICENSE121436361000000000 0
+105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\ws\lib\websocket-server.js121436361000000000 0
+101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\randombytes\browser.js121436361000000000 0
+104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\util-deprecate\History.md130887166470000000 0
 137C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-comments\node_modules\postcss\lib\parse.js121436361000000000 0
 116C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\domain-browser\.dependabot\config.yml121436361000000000 0
 163C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-minify-font-values\node_modules\chalk\node_modules\supports-color\browser.js131663821590000000 0
@@ -3203,10 +3208,7 @@
 104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\run-parallel\package.json132784233351056558 0
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-svgo\node_modules\postcss\docs\architecture.md121436361000000000 0
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\json-schema\draft-02\links129340000440000000 0
-133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-unicode\node_modules\postcss\LICENSE121436361000000000 0
-105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\ws\lib\websocket-server.js121436361000000000 0
-101C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\randombytes\browser.js121436361000000000 0
-104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\util-deprecate\History.md130887166470000000 0
+82C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\url132784243212806446 1
 149C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\dist\source-map.debug.js131511695990000000 0
 102C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\iconv-lite\package.json132784233350796718 0
 90C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\timsort\src132784243136241892 1
@@ -3705,7 +3707,6 @@
 100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\prelude-ls\lib\Num.js130761311180000000 0
 111C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\stable\instance\flags.js121436361000000000 0
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-svgo\node_modules\source-map\README.md131508293880000000 0
-97C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\wireframe-lg.48da39ca.jpg132788550980526336 0
 104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss\lib\document.d.ts121436361000000000 0
 122C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\uncss\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 106C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\domelementtype\package.json132784233376847791 0
@@ -4794,7 +4795,7 @@
 142C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-values\node_modules\postcss\docs\source-maps.md121436361000000000 0
 129C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-calc\node_modules\postcss\lib\processor.js121436361000000000 0
 126C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\expand-brackets\node_modules\debug\src\index.js131505605660000000 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-1.f09de9b2.svg132788550980186545 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-1.f09de9b2.svg132788857445193320 0
 107C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\unbox-primitive\package.json132784233333747226 0
 114C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\unbox-primitive\.github\FUNDING.yml121436361000000000 0
 131C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\expand-brackets\node_modules\is-extendable\README.md130805238020000000 0
@@ -8635,7 +8636,6 @@
 138C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-convert-values\node_modules\supports-color\index.js121436361000000000 0
 123C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\util\getProp.js121436361000000000 0
 127C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\jsdom\lib\jsdom\living\generated\MessageEvent.js121436361000000000 0
-146C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 129C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\util\stripComments.js121436361000000000 0
 130C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\selectors\className.js121436361000000000 0
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-selector-parser\dist\selectors\constructors.js121436361000000000 0
@@ -8841,6 +8841,7 @@
 147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-local-by-default\node_modules\color-convert\index.js121436361000000000 0
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\lodash\fp\isPlainObject.js121436361000000000 0
 139C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\node_modules\postcss\lib\container.js121436361000000000 0
+146C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 141C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-reduce-initial\node_modules\postcss\lib\declaration.js121436361000000000 0
 116C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\utils\node_modules\.bin\json5132784233392571752 0
 116C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\es\number\max-safe-integer.js121436361000000000 0
@@ -9362,7 +9363,7 @@
 147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\bl\node_modules\readable-stream\lib\internal\streams\from-browser.js121436361000000000 0
 142C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-url\node_modules\source-map\lib\base64-vlq.js131369414910000000 0
 107C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\jsdom\lib\jsdom\living\nodes132784241793003111 1
-95C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-check.e36d4d8a.svg132788550980516342 0
+95C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-check.e36d4d8a.svg132788857445513121 0
 145C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-url\node_modules\source-map\lib\binary-search.js131369414910000000 0
 144C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-url\node_modules\source-map\lib\mapping-list.js131369414910000000 0
 107C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\logger\lib\Logger.js121436361000000000 0
@@ -10025,7 +10026,7 @@
 109C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2017\CreateHTML.js121436361000000000 0
 112C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\argparse\lib\action\subparsers.js130992234610000000 0
 98C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\generic-names\.idea132784241469761012 1
-89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.aaafe13f.js132788550981965441 0
+89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.aaafe13f.js132788857446902337 0
 131C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-react-jsx\lib\development.js121012626000000000 0
 146C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\tokenize.js121436361000000000 0
 109C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@types\http-proxy\package.json132784233382674205 0
@@ -10714,7 +10715,7 @@
 136C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-scope\node_modules\color-convert\index.js121436361000000000 0
 119C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-colormin\dist\lib\toShorthand.js121436361000000000 0
 136C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-scope\node_modules\color-convert\route.js121436361000000000 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-7.efa0e026.svg132788550980356437 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-7.efa0e026.svg132788857446082777 0
 157C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\instance\code-point-at.js121436361000000000 0
 128C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-scope\node_modules\chalk\index.js121436361000000000 0
@@ -10780,7 +10781,6 @@
 140C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-local-by-default\node_modules\postcss\LICENSE121436361000000000 0
 145C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-local-by-default\node_modules\postcss\README-cn.md121436361000000000 0
 147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\at-rule.js121436361000000000 0
-112C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\function\virtual132784240691436075 1
 147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-minify-font-values\node_modules\source-map\lib\quick-sort.js131369414910000000 0
 147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\comment.js121436361000000000 0
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2016\IterableToArrayLike.js121436361000000000 0
@@ -11871,9 +11871,9 @@
 143C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\postcss\docs\architecture.md121436361000000000 0
 137C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\postcss\docs\syntax.md121436361000000000 0
 148C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
-132C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\has-flag\index.js131593941750000000 0
 108C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\highlight\lib\index.js121012626000000000 0
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\object-inspect\test\err.js121436361000000000 0
+132C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\has-flag\index.js131593941750000000 0
 102C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\is-plain-object\LICENSE131442863520000000 0
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\has-flag\readme.md131593942790000000 0
 135C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-merge-longhand\node_modules\color-name\README.md131339336430000000 0
@@ -12046,7 +12046,6 @@
 96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\lodash\entries.js121436361000000000 0
 120C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\path-browserify\test\test-path-dirname.js121436361000000000 0
 152C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\lib\source-map-generator.js131508293880000000 0
-147C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\source-map\dist\source-map.min.js131511695990000000 0
 126C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\postcss\docs132784242270289898 1
 109C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2018\DateString.js121436361000000000 0
 134C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\postcss-discard-empty\node_modules\postcss\package.json132784233364518280 0
@@ -12661,7 +12660,7 @@
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@nodelib\fs.stat\out\providers\async.js121436361000000000 0
 106C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\es\number\is-nan.js121436361000000000 0
 91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\pn\stream.js131594838820000000 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-4.222e6830.svg132788550980316468 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-4.222e6830.svg132788857446062784 0
 86C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\pn\test132784242161487068 1
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\csso\node_modules\css-tree\lib\syntax\config\parser.js121436361000000000 0
 106C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@types\node\ts3.6\base.d.ts132660667230000000 0
@@ -15602,7 +15601,7 @@
 111C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\highlight.js\scss\nnfx-dark.scss121436361000000000 0
 107C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\highlight.js\scss\ocean.scss121436361000000000 0
 109C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\highlight.js\scss\pojoaque.jpg121436361000000000 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-6.259c8c0a.svg132788550980316468 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-6.259c8c0a.svg132788857446072778 0
 108C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\events\tests\max-listeners.js121436361000000000 0
 106C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\es\reflect\index.js121436361000000000 0
 110C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\highlight.js\scss\pojoaque.scss121436361000000000 0
@@ -16405,7 +16404,7 @@
 104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\5\TimeClip.js121436361000000000 0
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\internals\get-async-iterator-method.js121436361000000000 0
 108C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\5\TimeFromYear.js121436361000000000 0
-93C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.9626f0bb.js.map132788550982075379 0
+93C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.9626f0bb.js.map132788857447002274 0
 103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\5\ToInt32.js121436361000000000 0
 104C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\5\ToUint32.js121436361000000000 0
 100C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\5\Type.js121436361000000000 0
@@ -16474,6 +16473,7 @@
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\caniuse-lite\data\features\gyroscope.js121436361000000000 0
 124C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2020\OrdinaryDefineOwnProperty.js121436361000000000 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2020\OrdinaryGetOwnProperty.js121436361000000000 0
+112C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\css-zen-garden-wireframe-sm.5853a236.png132788857445103378 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2020\OrdinaryGetPrototypeOf.js121436361000000000 0
 119C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2020\OrdinaryObjectCreate.js121436361000000000 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\es-abstract\2020\OrdinarySetPrototypeOf.js121436361000000000 0
@@ -18401,7 +18401,7 @@
 105C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\concat-map\README.markdown129985728760000000 0
 115C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\typed-array\fill.js121436361000000000 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\typed-array\filter-out.js121436361000000000 0
-93C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.aaafe13f.js.map132788550982065380 0
+93C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.aaafe13f.js.map132788857446982288 0
 117C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\typed-array\filter.js121436361000000000 0
 120C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\utils\node_modules\.bin\json5.cmd132784233392571752 0
 115C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\typed-array\find.js121436361000000000 0
@@ -18567,6 +18567,7 @@
 112C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\instance\sort.js121436361000000000 0
 116C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\instance\trim-end.js121436361000000000 0
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\instance\trim-start.js121436361000000000 0
+112C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\function\virtual132784240691436075 1
 120C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\function\virtual\bind.js121436361000000000 0
 121C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\function\virtual\index.js121436361000000000 0
 123C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\core-js\features\dom-collections\for-each.js121436361000000000 0
@@ -19675,7 +19676,7 @@
 102C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\call-bind\test\index.js121436361000000000 0
 108C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\call-bind\.github\FUNDING.yml121436361000000000 0
 98C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\cache-base\index.js131452177530000000 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-5.dd0f77d5.svg132788550980316468 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-5.dd0f77d5.svg132788857446062784 0
 102C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\cache-base\package.json132784233337434959 0
 95C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\bytes\History.md131486897340000000 0
 92C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\bytes\LICENSE131278550790000000 0
@@ -20850,7 +20851,7 @@
 117C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\core\test\fixtures\module-a.js121436361000000000 0
 113C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\core\test\fixtures\plugins132784240053580934 1
 134C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none132784240054682301 1
-103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\assets\assets-download-file.zip132788550979746833 0
+103C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\assets\assets-download-file.zip132788857445103378 0
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two132784240055172048 1
 106C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\config-default\test132784240013162397 1
 146C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json121436361000000000 0
@@ -21482,7 +21483,7 @@
 133C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-shorthand-properties\README.md121012626000000000 0
 125C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-reserved-words\LICENSE121012626000000000 0
 130C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-reserved-words\package.json132784233326581642 0
-90C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.fd58574d.css132788550981955448 0
+90C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.fd58574d.css132788857446902337 0
 127C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-reserved-words\README.md121012626000000000 0
 130C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-reserved-words\lib\index.js121012626000000000 0
 118C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\@babel\plugin-transform-regenerator\lib132784239873549710 1
@@ -21922,13 +21923,13 @@
 92C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\.bin\uuid.ps1132784233395813001 0
 89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\.bin\which132784233395932911 0
 93C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\node_modules\.bin\which.ps1132784233395932911 0
-78C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\assets132788550979786794 1
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-2.74505a7a.svg132788550980176556 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-3.bcc4af98.svg132788550980186545 0
-91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-8.ef29f1a8.svg132788550979626895 0
-98C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-download.43a1d2d2.svg132788550980176556 0
-96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-select.f8d42744.svg132788550980526336 0
-89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.9626f0bb.js132788550981975432 0
-94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.fd58574d.css.map132788550982055392 0
-89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\logo.272a18c5.svg132788550979606908 0
-97C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\wireframe-sm.a947136d.jpg132788550979626895 0
+78C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\assets132788857445193320 1
+112C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\css-zen-garden-wireframe-lg.68672ce1.png132788857445503122 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-2.74505a7a.svg132788857445203311 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-3.bcc4af98.svg132788857445203311 0
+91C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-8.ef29f1a8.svg132788857444963465 0
+98C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-download.43a1d2d2.svg132788857445193320 0
+96C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\icon-select.f8d42744.svg132788857445513121 0
+89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.9626f0bb.js132788857446902337 0
+94C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\index.fd58574d.css.map132788857447002274 0
+89C:\Users\daf_1\OneDrive\Escritorio\Byu\WDD 331\WDD-331_group_work\build\logo.272a18c5.svg132788857444943477 0
