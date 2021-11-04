@@ -1,0 +1,10 @@
+@media only screen and (max-width: 400px) {
+  .summary {
+    background-color: grey; }
+
+  .page-wrapper {
+    display: grid;
+    grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
+    grid-template-columns: 375px; } }
+
+/*# sourceMappingURL=smallscreen.css.map */

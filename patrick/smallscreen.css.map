@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,yCAAgD;EAK5C,QAAQ;IACJ,gBAAgB,EAAE,IAAI;;EAG1B,aAAa;IACT,OAAO,EAAE,IAAI;IACb,kBAAkB,EAAE,sDAAsD;IAC1E,qBAAqB,EAAE,KAAK",
+"sources": ["smallScreen.scss"],
+"names": [],
+"file": "smallscreen.css"
+}
