@@ -1,12 +1,30 @@
+/* set breakpoints */
+$breakpoint-small: 1024px;
+$breakpoint-large: 1025px;
+
+/* mobile layout */
+@media only screen and (max-width: $breakpoint-small) {
+	/*----------- apply a natural box layout model to all elements --------------*/
+    * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+ 
+    .summary{
+        background-color: #cccccc;
+    }
+
+    .page-wrapper{ 
+        display: grid;
+        grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto;
+        grid-template-columns: auto;
+    }
+    
+}
+
 /* desktop layout */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: $breakpoint-large) {
 	html {
 		margin: 0;
 		padding: 0;
 	}
-
-	/*----------- apply a natural box layout model to all elements --------------*/
-    * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 	
 	body { 
 		margin: 0;
@@ -57,9 +75,9 @@
 	} 
 	
 	.summary {	
+		background-color: #cccccc;
 		position: relative;
 		margin-left: 10px;	
-		background-color: #cccccc;
 		grid-column: 1/4;
 		grid-row: 2/3;
 	}
