@@ -1,0 +1,81 @@
+// Basic Style 
+
+// variables
+// font size
+$heading1-font-size: 100px;
+$heading2-font-size: 24px;
+$heading3-font-size1: 36px;
+$heading3-font-size2: 24px;
+$paragrapgh-font-size: 16px;
+$link-font-size1: 16px;
+$link-font-size2: 24px;
+
+
+h1 {
+    font-size: $heading1-font-size;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: $heading2-font-size;
+}
+
+aside.sidebar h3 {
+    font-size: $heading3-font-size1;
+}
+
+div.preamble h3, div.main > div h3 {
+    font-size: $heading3-font-size2;
+}
+
+p { 
+    font-size: $paragrapgh-font-size;
+}
+
+div.summary p:nth-child(1) {
+    font-size: 170%;
+    letter-spacing: -0.5px;
+}
+
+div.summary p:nth-child(2), div.summary p:nth-child(2) a  {
+    font-size: 110%;
+}
+
+a {
+	text-decoration: underline;
+}
+
+footer a {
+    font-size: 120%;
+    max-width: 51px;
+    height: fit-content;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 10px 1px 10px 1px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+aside.sidebar li {
+    font-size: $link-font-size2;
+    margin-top: 22px;
+}
+
+nav ul li:nth-child(1) {
+    margin-top: 12px;
+}
+
+
+// font style, font weight
+h1, h2, h3, p, a {
+    font-style: normal;
+    font-weight: 400;
+}
+
+nav {
+    display: block;
+}
+
+
