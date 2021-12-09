@@ -127,7 +127,7 @@ $breakpoint-large: 1025px;
 	}
 
 	ul {
-		padding: 5px 20px 20px 20px;
+		padding: 5px 15px 20px 15px;
 		margin: 0;
 	}
 	
@@ -197,7 +197,6 @@ $breakpoint-large: 1025px;
 	
 	.preamble {
 		margin: 2px 0px 0px 10px;
-		border: 1px solid black;
 		grid-column: 1/2;
 		grid-row: 3/4;
 	}
@@ -238,10 +237,6 @@ $breakpoint-large: 1025px;
 	}
 	
 	h2 {
-		border-top: 1px solid black;
-		border-right: 1px solid black;
-		border-bottom: 1px solid black;
-		border-left: none;
 		margin: 0;
 		padding: 0px 117px 0px 117px;
 		grid-column: 1/2;
@@ -256,7 +251,6 @@ $breakpoint-large: 1025px;
 	
 	.explanation {
 		margin: 1px 0px 10px 10px;
-		border: 1px solid black;
 		grid-column: 3/5;
 		grid-row: 1/2;
 	}
@@ -264,32 +258,27 @@ $breakpoint-large: 1025px;
 	.participation {
 		margin-right: 5px;
 		margin-left: 10px;
-		border: 1px solid black;
 		grid-column: 2/4;
 		grid-row: 2/3;
 	}
 	
 	.benefits {
 		margin-left: 5px;
-		border: 1px solid black;
 		grid-column: 4/5;
 		grid-row: 2/3;
 	}
 	
 	.requirements {
 		margin: 10px 0px 0px 10px;
-		border: 1px solid black;
 		grid-column: 2/5;
 		grid-row: 3/5;
 	}
 
 	.requirements p:last-child {
-        border-top: 1px solid black;
 		margin-top: 10px;
 	}
 	
 	footer {
-		border: 1px solid black;
 		grid-column: 1/2;
 		grid-row: 4/5;
 	}
@@ -346,19 +335,16 @@ $breakpoint-large: 1025px;
 	}
 	
 	.design-selection {
-		border: 1px solid black;
 		grid-column: 1/2;
 		grid-row: 1/2;
 	}
 	
 	.design-archives {
-		border: 1px solid black;
 		grid-column: 1/2;
 		grid-row: 2/3;
 	}
 	
 	.zen-resources {
-		border: 1px solid black;
 		grid-column: 1/2;
 		grid-row: 3/4;
 	}
@@ -390,26 +376,26 @@ $breakpoint-large: 1025px;
 	}
 
 	div.design-selection nav ul li:nth-child(2) a:nth-child(1) {
-		padding-right: 97px;
+		margin-right: 97px;
 	}
 	
 	div.design-selection nav ul li:nth-child(3) a:nth-child(1) {
-		padding-right: 146px;
+		margin-right: 146px;
 	}
 	
 	div.design-selection nav ul li:nth-child(4) a:nth-child(1) {
-		padding-right: 73px;
+		margin-right: 73px;
 	}
 	
 	div.design-selection nav ul li:nth-child(5) a:nth-child(1) {
-		padding-right: 55px;
+		margin-right: 55px;
 	}
 	
 	div.design-selection nav ul li:nth-child(6) a:nth-child(1) {
-		padding-right: 53px;
+		margin-right: 53px;
 	}
 	
 	div.design-selection nav ul li:nth-child(8) a:nth-child(1) {
-		padding-right: 34px;
+		margin-right: 34px;
 	}
 }
