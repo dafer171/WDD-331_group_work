@@ -1,0 +1,113 @@
+// colors for navigation links
+$unvisited-link-color1: #ffffff; // White
+$unvisited-link-color2: #264653; // Charcoal
+
+$visited-link-color: #90be6d; // Pistachio
+
+$hover-link-color1: #f9c74f; // Maize Crayola
+$hover-link-color2: #ffffff; // White
+$hover-link-color3: #264653; // Charcoal
+
+$selected-link-color: #f94144; // Red Salsa
+
+// background colors for navigation menus
+$primary-nav-bg-color: #264653; // Charcoal
+$secondary-nav-bg-color: #f9c74f; // Maize Crayola
+$other-nav-bg-color: #f8961e; // Yellow Orange Color Wheel
+
+// border colors for navigation menus
+$primary-nav-border-color: #ffffff; // White
+$secondary-nav-border-color: #f9c74f; // Maize Crayola
+$other-nav-border-color: #f8961e; // Yellow Orange Color Wheel
+
+
+// primary navigation
+.design-selection {
+    background-color: $primary-nav-bg-color;
+    border: 1px solid $primary-nav-border-color;
+  
+    & li a{
+     
+      /* unvisited link */
+      &:link{
+        color: $unvisited-link-color1;
+      }
+   
+      /* visited link */
+      &:visited{
+        color: $visited-link-color;
+      }
+      
+      /* mouse over link */
+      &:hover{
+        color: $hover-link-color1;
+        }
+  
+      /* selected link */ 
+      &:active{
+        color: $selected-link-color;
+      }
+  
+    }
+  }
+  
+  // secondary navigation
+  .design-archives {
+    background-color: $secondary-nav-bg-color;
+    border: 1px solid $secondary-nav-border-color;
+  
+    & li a{
+    
+      /* unvisited link */
+      &:link{
+        color: $unvisited-link-color2;
+      }
+      
+      /* visited link */
+      &:visited{
+        color: $visited-link-color;
+      }
+      
+      /* mouse over link */
+      &:hover{
+        color: $hover-link-color2;
+  
+      }
+      
+      /* selected link */
+      &:active{
+        color: $selected-link-color;
+      }
+  
+    }
+  }
+  
+  // other navigation
+  .zen-resources {
+    background-color: $other-nav-bg-color;
+    border: 1px solid $other-nav-border-color;
+  
+    & li a{
+      
+      /* unvisited link */
+      &:link{
+        color: $unvisited-link-color1;
+      }
+      
+      /* visited link */
+      &:visited{
+        color: $visited-link-color;
+      }
+       
+      /* mouse over link */
+      &:hover{
+        color: $hover-link-color3;
+      }
+      
+      /* selected link */
+      &:active{
+        color: $selected-link-color;
+      }
+  
+    }
+  }

@@ -1,0 +1,16 @@
+//Typography 
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+$primary-font: 'Source Sans Pro', sans-serif;
+$secondary-font: 'Noto Sans', sans-serif;
+
+h1, h2, h3, a {
+  font-family: $primary-font;
+}
+
+p {
+  font-family: $secondary-font;
+}

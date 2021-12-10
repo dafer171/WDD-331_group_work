@@ -1,0 +1,150 @@
+// colors
+// variables
+$body-bg-color: #3a5763; // Deep Space Sparkle
+$body-bg-color2: #ffffff; // White
+$body-bg-color3: #f3722c; // Orange Red
+
+$heading1-color: #90be6d; // Pistachio
+$heading2-color: #43aa8b; // Zomp
+$heading3-color1: #43aa8b; // Zomp
+$heading3-color2: #ffffff; // White
+$heading3-color3: #264653; // Charcoal
+$heading3-color4: #f3722c; // Orange Red
+$heading3-color5: #f94144; // Red Salsa
+$heading3-color6: #f9c74f; // Maize Crayola
+
+$paragraph-color1: #ffffff; // White
+$paragraph-color2: #3a5763; // Deep Space Sparkle
+$paragraph-color3: #90be6d; // Pistachio
+
+$paragraph-bg-color1: #ffffff; // White
+$paragraph-bg-color2: #43aa8b; // Zomp
+$paragraph-bg-color3: #90be6d; // Pistachio
+$paragraph-bg-color4: #f94144; // Red Salsa
+
+$border-color1: #43aa8b; // Zomp
+$border-color2: #f8961e; // Yellow Orange Color Wheel
+$border-color3: #90be6d; // Pistachio
+$border-color4: #f94144; // Red Salsa
+$border-color5: #ffffff; // White
+$border-color6: #f3722c; // Orange Red
+
+$button-bg-color: #264653; // Charcoal
+
+
+body {
+    background-color: $body-bg-color;
+}
+
+h1 {
+    background-color: $body-bg-color2;
+    color: $heading1-color;
+}
+
+h2 {
+    background-color: $body-bg-color2;
+    color: $heading2-color;
+    border-top: 1px solid $border-color1;
+	border-right: 1px solid $border-color1;
+	border-bottom: 1px solid $border-color1;
+	border-left: none;
+}
+
+.preamble h3 {
+    color: $heading3-color1;
+}
+
+.explanation h3 {
+    color: $heading3-color2;
+}
+
+.participation h3 {
+    color: $heading3-color3;
+}
+
+.benefits h3 {
+    color: $heading3-color4;
+}
+
+.requirements h3 {
+    color: $heading3-color5;
+}
+
+h3.select {
+    color: $heading3-color6;
+}
+
+h3.archives {
+    color: $heading3-color2;
+}
+
+h3.resources {
+    color: $heading3-color3;
+}
+
+.summary p, .explanation p, .participation p, .requirements p:last-child {
+    color: $paragraph-color1;
+}
+
+.preamble p, .requirements p {
+    color: $paragraph-color2;
+}
+
+.benefits p {
+    color: $paragraph-color3;
+}
+
+.preamble, .benefits, .requirements {
+    background-color: $paragraph-bg-color1;
+}
+
+.explanation {
+    background-color: $paragraph-bg-color2;
+}
+
+.participation {
+    background-color: $paragraph-bg-color3;
+}
+
+.requirements p:last-child {
+    background-color: $paragraph-bg-color4;
+}
+
+.preamble {
+    border: 1px solid $border-color2;
+}
+
+.explanation {
+    border: 1px solid $border-color1;
+}
+
+.participation {
+    border: 1px solid $border-color3;
+}
+
+.benefits {
+    border: 1px solid $border-color4;
+}
+
+.requirements {
+    border-top: 1px solid $border-color2;
+    border-right: 1px solid $border-color2;
+    border-bottom: 1px solid $border-color4;
+    border-left: 1px solid $border-color2;
+}
+
+.requirements p:last-child {
+    border: 1px solid $border-color4;
+}
+
+/*.summary p:last-child a, .explanation a, .participation a, .requirements p:last-child a*/
+
+footer {
+    background-color: $body-bg-color3;
+    border: 1px solid $border-color6;
+}
+
+footer a {
+    background-color: $button-bg-color;
+    border: 1px solid $border-color5;
+}
