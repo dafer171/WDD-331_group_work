@@ -35,13 +35,16 @@ p {
 div.summary p:nth-child(1) {
     font-size: 170%;
     letter-spacing: -0.5px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 div.summary p:nth-child(2), div.summary p:nth-child(2) a  {
     font-size: 110%;
+    text-shadow: 2px 2px 4px #000000;
 }
 
-a {
+a { 
+    cursor: pointer;
 	text-decoration: underline;
 }
 
@@ -51,10 +54,6 @@ footer a {
     height: fit-content;
     border-radius: 2px;
     padding: 10px 1px 10px 1px;
-}
-
-ul {
-    list-style-type: none;
 }
 
 aside.sidebar li {
@@ -77,4 +76,12 @@ nav {
     display: block;
 }
 
+ul {
+    list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
 

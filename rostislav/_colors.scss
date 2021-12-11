@@ -1,6 +1,6 @@
 // colors
 // variables
-$body-bg-color: #3a5763; // Deep Space Sparkle
+$body-bg-color1: #3a5763; // Deep Space Sparkle
 $body-bg-color2: #ffffff; // White
 $body-bg-color3: #f3722c; // Orange Red
 
@@ -28,16 +28,32 @@ $border-color3: #90be6d; // Pistachio
 $border-color4: #f94144; // Red Salsa
 $border-color5: #ffffff; // White
 $border-color6: #f3722c; // Orange Red
+$border-color7: #3a5763; // Deep Space Sparkle
 
-$button-bg-color: #264653; // Charcoal
+$button-unclicked-bg-color: #264653; // Charcoal
+$button-clicked-bg-color: #3a5763; // Deep Space Sparkle
+$button-hover-bg-color: #ffffff; // White
+$button-selected-bg-color: #ffffff; // White
+
+$button-unvisited-link-color: #ffffff; // White
+$button-visited-link-color: #90be6d; // Pistachio
+$button-hover-link-color: #264653; // Charcoal
+$button-selected-link-color: #f94144; // Red Salsa
+
+$li-text-color: #ffffff; // White 
+
+$paragraph-unvisited-link-color1: #ffffff; // White
+$paragraph-unvisited-link-color2: #3a5763; // Deep Space Sparkle
+$paragraph-visited-link-color: #264653; // Charcoal
+$paragraph-hover-link-color: #f9c74f; // Maize Crayola
+$paragraph-selected-link-color: #f94144; // Red Salsa
 
 
 body {
-    background-color: $body-bg-color;
+    background-color: $body-bg-color1;
 }
 
 h1 {
-    background-color: $body-bg-color2;
     color: $heading1-color;
 }
 
@@ -137,14 +153,96 @@ h3.resources {
     border: 1px solid $border-color4;
 }
 
-/*.summary p:last-child a, .explanation a, .participation a, .requirements p:last-child a*/
+.summary p:last-child, .participation, .requirements p:last-child {
+    & a{
+     
+        // unvisited paragraph link
+        &:link{
+          color: $paragraph-unvisited-link-color1;
+        }
+     
+        // visited paragraph link
+        &:visited{
+          color: $paragraph-visited-link-color;
+        }
+        
+        // mouse over paragraph link
+        &:hover{
+          color: $paragraph-hover-link-color;
+          }
+    
+        // selected paragraph link 
+        &:active{
+          color: $paragraph-selected-link-color;
+        }
+    
+      }
+}
+
+.requirements p:nth-child(5) {
+    & a{
+     
+        // unvisited paragraph link
+        &:link{
+          color: $paragraph-unvisited-link-color2;
+        }
+     
+        // visited paragraph link
+        &:visited{
+          color: $paragraph-visited-link-color;
+        }
+        
+        // mouse over paragraph link
+        &:hover{
+          color: $paragraph-hover-link-color;
+          }
+    
+        // selected paragraph link 
+        &:active{
+          color: $paragraph-selected-link-color;
+        }
+    
+      }
+}
+
+nav ul li {
+    color: $li-text-color;
+}
 
 footer {
     background-color: $body-bg-color3;
     border: 1px solid $border-color6;
-}
 
-footer a {
-    background-color: $button-bg-color;
-    border: 1px solid $border-color5;
+    & a{
+        position: relative;
+        z-index: 2;
+        // unvisited button link
+        &:link{
+          color: $button-unvisited-link-color;
+          background-color: $button-unclicked-bg-color;
+          border: 1px solid $border-color5;
+        }
+     
+        // visited button link
+        &:visited{
+          color: $button-visited-link-color;
+          background-color: $button-clicked-bg-color;
+          border: 1px solid $border-color3;
+        }
+        
+        // mouse over button link
+        &:hover{
+          color: $button-hover-link-color;
+          background-color: $button-hover-bg-color;
+          border: 1px solid $border-color5;
+          }
+    
+        // selected button link
+        &:active{
+          color: $button-selected-link-color;
+          background-color: $button-selected-bg-color;
+          border: 1px solid $border-color4;
+        }
+    
+      }
 }

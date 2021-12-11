@@ -1,14 +1,14 @@
 // colors for navigation links
-$unvisited-link-color1: #ffffff; // White
-$unvisited-link-color2: #264653; // Charcoal
+$nav-unvisited-link-color1: #ffffff; // White
+$nav-unvisited-link-color2: #264653; // Charcoal
 
-$visited-link-color: #90be6d; // Pistachio
+$nav-visited-link-color: #90be6d; // Pistachio
 
-$hover-link-color1: #f9c74f; // Maize Crayola
-$hover-link-color2: #ffffff; // White
-$hover-link-color3: #264653; // Charcoal
+$nav-hover-link-color1: #f9c74f; // Maize Crayola
+$nav-hover-link-color2: #ffffff; // White
+$nav-hover-link-color3: #264653; // Charcoal
 
-$selected-link-color: #f94144; // Red Salsa
+$nav-selected-link-color: #f94144; // Red Salsa
 
 // background colors for navigation menus
 $primary-nav-bg-color: #264653; // Charcoal
@@ -25,27 +25,27 @@ $other-nav-border-color: #f8961e; // Yellow Orange Color Wheel
 .design-selection {
     background-color: $primary-nav-bg-color;
     border: 1px solid $primary-nav-border-color;
-  
+    
     & li a{
      
-      /* unvisited link */
+      // unvisited link
       &:link{
-        color: $unvisited-link-color1;
+        color: $nav-unvisited-link-color1;
       }
    
-      /* visited link */
+      // visited link
       &:visited{
-        color: $visited-link-color;
+        color: $nav-visited-link-color;
       }
       
-      /* mouse over link */
+      // mouse over link
       &:hover{
-        color: $hover-link-color1;
+        color: $nav-hover-link-color1;
         }
   
-      /* selected link */ 
+      // selected link
       &:active{
-        color: $selected-link-color;
+        color: $nav-selected-link-color;
       }
   
     }
@@ -58,25 +58,25 @@ $other-nav-border-color: #f8961e; // Yellow Orange Color Wheel
   
     & li a{
     
-      /* unvisited link */
+      // unvisited link
       &:link{
-        color: $unvisited-link-color2;
+        color: $nav-unvisited-link-color2;
       }
       
-      /* visited link */
+      // visited link
       &:visited{
-        color: $visited-link-color;
+        color: $nav-visited-link-color;
       }
       
-      /* mouse over link */
+      // mouse over link
       &:hover{
-        color: $hover-link-color2;
+        color: $nav-hover-link-color2;
   
       }
       
-      /* selected link */
+      // selected link
       &:active{
-        color: $selected-link-color;
+        color: $nav-selected-link-color;
       }
   
     }
@@ -89,24 +89,24 @@ $other-nav-border-color: #f8961e; // Yellow Orange Color Wheel
   
     & li a{
       
-      /* unvisited link */
+      // unvisited link
       &:link{
-        color: $unvisited-link-color1;
+        color: $nav-unvisited-link-color1;
       }
       
-      /* visited link */
+      // visited link
       &:visited{
-        color: $visited-link-color;
+        color: $nav-visited-link-color;
       }
        
-      /* mouse over link */
+      // mouse over link
       &:hover{
-        color: $hover-link-color3;
+        color: $nav-hover-link-color3;
       }
       
-      /* selected link */
+      // selected link
       &:active{
-        color: $selected-link-color;
+        color: $nav-selected-link-color;
       }
   
     }
